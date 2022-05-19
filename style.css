@@ -1,0 +1,78 @@
+.header {
+    background-color: #004175;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-color: #89deef;
+    color: white;
+    text-indent: 5px;
+    width: 100%;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+h1 {
+    font-family: 'Open Sans', 'Helvetica';
+    color: white;
+
+}
+
+#adoption {
+    font-family: 'Open Sans', 'Helvetica';
+    padding-left: 25px;
+}
+
+#adoptadog {
+    font-family: 'Open Sans', 'Helvetica';
+    padding-left: 25px;
+    font-size: 25px;
+}
+
+
+.dog-name {
+    font-family: 'Oswald', 'Helvetica';
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+.main {
+    padding-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.trait {
+    font-family: 'Open Sans', 'Helvetica';
+    color: black;
+    background-color: #89deef;
+    border-radius: 5px;
+    margin: 0.5%;
+    padding-left: 0.8%;
+    padding-right: 00.8%;
+}
+
+.dog {
+    margin-left: 5px;
+    margin-right: 5px;
+
+    width: 400px;
+
+
+}
+
+.trait-box {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+}
+
+
+
+img {
+    width: 400px;
+
+}
