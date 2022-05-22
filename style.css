@@ -70,6 +70,52 @@ h1 {
     padding-bottom: 20px;
 }
 
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#pic1 {
+    background-image: linear-gradient(rgba(77, 40, 177, 0.5), rgba(126, 50, 164, 0.5)), url("starter_files/images/location.png");
+    text-align: center;
+    background-size: 100%;
+    padding-top: 120px;
+    width: 33%;
+    height: 200px;
+    font-size: 75px;
+    color: white;
+    font-family: 'Open Sans', 'Helvetica';
+
+
+
+}
+
+#pic2 {
+    background-image: linear-gradient(rgba(77, 40, 177, 0.5), rgba(126, 50, 164, 0.5)), url("starter_files/images/donate.jpg");
+    background-size: 100%;
+    text-align: center;
+    padding-top: 120px;
+    width: 33%;
+    height: 200px;
+    font-size: 75px;
+    color: white;
+    font-family: 'Open Sans', 'Helvetica';
+
+}
+
+#pic3 {
+    background-image: linear-gradient(rgba(77, 40, 177, 0.5), rgba(126, 50, 164, 0.5)), url("starter_files/images/volunteer.jpg");
+    text-align: center;
+    background-size: 100%;
+    padding-top: 120px;
+    width: 33%;
+    height: 200px;
+    font-size: 75px;
+    color: white;
+    font-family: 'Open Sans', 'Helvetica';
+
+}
+
 
 
 img {
